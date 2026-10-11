@@ -560,7 +560,7 @@ code {
   overflow-x: auto;
 }
 
-@media (max-width: 48rem) {
+@media (width <= 48rem) {
   .feature-tabs__panel {
     grid-template-columns: 1fr;
     align-items: stretch;
