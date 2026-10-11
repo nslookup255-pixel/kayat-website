@@ -110,8 +110,8 @@ devDependencies:
     specifier: ^3.2.1
     version: 3.2.1(@emnapi/core@1.11.3)(@emnapi/runtime@1.11.3)(@typescript-eslint/parser@8.64.0)(eslint@10.7.0)(typescript-eslint@8.64.0)
   globals:
-    specifier: ^17.7.0
-    version: 17.7.0
+    specifier: ^17.13.0
+    version: 17.13.0
   pagefind:
     specifier: ^1.5.2
     version: 1.5.2
@@ -3472,7 +3472,7 @@ packages:
       astro-eslint-parser: 3.0.0(@emnapi/core@1.11.3)(@emnapi/runtime@1.11.3)
       eslint: 10.7.0
       espree: 11.2.0
-      globals: 17.7.0
+      globals: 17.13.0
       postcss: 8.5.19
       postcss-selector-parser: 7.1.4
       synckit: 0.11.13
@@ -3892,8 +3892,8 @@ packages:
     engines: {node: '>=18'}
     dev: false
 
-  /globals@17.7.0:
-    resolution: {integrity: sha512-Czmyns5dUsq4seFBR/Kdydhmo8y9kC79hiSkPn0YcGtNnYWnrgt0vjrSjx9tspoDGWm2CMarffRuLjM4xUz8xg==}
+  /globals@17.13.0:
+    resolution: {integrity: sha512-RwMTC61u7hrG3ZJMkZQOK4JLJrKS8QtoTii63EmWvFXHqycY9FObBJQCbsLxSO8kjKhWE5kV1GC+Vb1g3RI0Zg==}
     engines: {node: '>=18'}
     dev: true
 
